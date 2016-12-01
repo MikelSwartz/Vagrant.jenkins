@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /vagrant/
 yum update
-yum install -y vim git
+yum install -y vim git tree
 
 yum install -y java-1.8.0-openjdk.x86_64 java-1.8.0-openjdk-devel.x86_64
 
