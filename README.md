@@ -5,6 +5,6 @@ Provides a clean jenkins host for leaning against Pluralsight's "Getting started
 
 Version Contents
 ========
-apache-maven-3.0.5 maven
-jre-1.8.0-openjdk.x86_64
-Java 8
+apache-maven-3.3.9 maven  
+jre-1.8.0-openjdk.x86_64  
+Java 8  
