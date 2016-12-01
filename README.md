@@ -11,4 +11,4 @@ Java 8
 
 Comments
 ========
-Optional: Place the jenkins2 directory and the spring-boot-samples code in the /vagarant file. Run the mvn complile from that root directory. 
+Optional: Place the jenkins2 directory and the spring-boot-samples code in the /vagarant file. Run the `mvn complile` from that root directory. 
