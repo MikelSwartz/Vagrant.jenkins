@@ -11,4 +11,16 @@ Java 8
 
 Comments
 ========
-Optional: Place the jenkins2 directory and the spring-boot-samples code in the /vagarant file. Run the `mvn complile` from that root directory. 
+Optional: Place the jenkins2 directory and the spring-boot-samples code in the /vagarant file for the manual run. Run the `mvn complile` and `mvn package` from that directory structure. Jenkins will use the `/var/lib/jenkins/workspace/atmosphere` workspace.   
+
+Use port 8280  
+`http://localhost:8280`  
+or change the port number to use in the Vagrantfile.  
+
+CLONE Command
+========
+Just to keep it simple, here is the git command to clone the spring-boot project into the Jenkins workspace.  
+`cd /var/lib/jenkins/workspace/atmosphere`  
+`git clone https://github.com/g0t4/jenkins2-course-spring-boot.git`  
+
+
